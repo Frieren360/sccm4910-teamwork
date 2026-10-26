@@ -4,6 +4,7 @@ Each student adds ONE greeting line below the marker, on their own branch,
 then opens a pull request against their own fork's main branch.
 Review the change with a partner before merging it.
 """
+print("Hello from Tyler!")
 
 
 def banner():
